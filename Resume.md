@@ -6,7 +6,7 @@
 - GitHub: https://github.com/varun570
 
 ## Summary
-- Data Scientist with strong academic background and hands-on experience in data analysis, data engineering statistical modeling, and data visualization. Proficient in Python, Javascript, and SQL, with a passion for using data to solve complex challenges. Eager to grow in a future-ready data team.
+- Data Scientist with strong academic background and hands-on experience in data analysis, data engineering statistical modeling, and data visualization. Proficient in Python, Javascript, and SQL with a passion for using data to solve complex challenges. Eager to grow in a future-ready data team.
 
 ## Education
 - **Masters in Professional Studies in Data Science**
@@ -15,7 +15,7 @@
   - CVR College Of Engineering • Hyderabad, India • 2022 • 3.49/4.0
 
 ## Experience
-### Math Coach UMBC - Reach Together Tutoring Program August 2023 - Present, Baltimore Country
+### Math Coach UMBC - Reach Together Tutoring Program August 2023 - Present, Baltimore County
 - Led intensive tutoring programs for Baltimore students in grades 2 to 9, boosting average student scores in math by 5%.
 - Customized tutoring sessions to match each student's unique needs, ensuring a personalized learning journey that resulted in increased confidence and motivation.
 
