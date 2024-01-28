@@ -1,5 +1,5 @@
 # VARUN BALLE
-![HEADSHOT](https://drive.google.com/file/d/12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd/view?usp=drive_link)
+![HEADSHOT](https://drive.google.com/uc?id=12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd)
 
 - Email: ballevarun55@gmail.com
 - LinkedIn: https://www.linkedin.com/in/varun-balle/
