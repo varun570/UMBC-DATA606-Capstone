@@ -1,5 +1,5 @@
 # VARUN BALLE
-![Headshot]([https://drive.google.com/file/d/12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd/view?usp=drive_link](https://drive.google.com/file/d/12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd/view?usp=sharing))
+![Headshot](https://drive.google.com/file/d/12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd/view)
 - Email: ballevarun55@gmail.com
 - LinkedIn: https://www.linkedin.com/in/varun-balle/
 - GitHub: https://github.com/varun570
