@@ -16,7 +16,7 @@ Varun Balle
 
 # Table of Contents
 
-[Introduction 3](#_Toc157847838)
+[Introduction](#_Toc157847838)
 
 [What is demand Forecasting?](#_Toc157847839)
 
