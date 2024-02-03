@@ -8,41 +8,41 @@ Dr Chaojie (Jay) Wang
 
 Varun Balle
 
-GitHub: [https://github.com/varun570](https://github.com/varun570)
+[GitHub](https://github.com/varun570)
 
-LinkedIn: [https://www.linkedin.com/in/varun-balle-b4153a1b8/](https://www.linkedin.com/in/varun-balle-b4153a1b8/)
+[LinkedIn](https://www.linkedin.com/in/varun-balle-b4153a1b8/)
 
-PowerPoint file: [https://drive.google.com/drive/folders/1V4bJ71uebxW-QcZm\_aat0Ts9MdII879C?usp=sharing](https://drive.google.com/drive/folders/1V4bJ71uebxW-QcZm_aat0Ts9MdII879C?usp=sharing)
+[PowerPoint file](https://drive.google.com/drive/folders/1V4bJ71uebxW-QcZm_aat0Ts9MdII879C?usp=sharing)
 
 # Table of Contents
 
 [Introduction 3](#_Toc157847838)
 
-[What is demand Forecasting? 3](#_Toc157847839)
+[What is demand Forecasting?](#_Toc157847839)
 
-[Why do we Forecast Demand? 3](#_Toc157847840)
+[Why do we Forecast Demand?](#_Toc157847840)
 
-[Factors Affecting Demand Forecasting 3](#_Toc157847841)
+[Factors Affecting Demand Forecasting](#_Toc157847841)
 
-[Beverage Alcohol Industry 3](#_Toc157847842)
+[Beverage Alcohol Industry](#_Toc157847842)
 
-[Proposed Workflow 4](#_Toc157847843)
+[Proposed Workflow](#_Toc157847843)
 
-[Data Description 4](#_Toc157847844)
+[Data Description](#_Toc157847844)
 
-[Target 5](#_Toc157847845)
+[Target](#_Toc157847845)
 
-[Features and Machine Learning Models 5](#_Toc157847846)
+[Features and Machine Learning Models](#_Toc157847846)
 
-[1. Time series model: 5](#_Toc157847847)
+[1. Time series model](#_Toc157847847)
 
-[2. Regression Model: 5](#_Toc157847848)
+[2. Regression Model](#_Toc157847848)
 
-[3. Deep Learning: 5](#_Toc157847849)
+[3. Deep Learning](#_Toc157847849)
 
-[Evaluation And Results 6](#_Toc157847850)
+[Evaluation And Results](#_Toc157847850)
 
-[References 6](#_Toc157847851)
+[References](#_Toc157847851)
 
 # Introduction
 
