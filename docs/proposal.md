@@ -87,7 +87,7 @@ Factors in the beverage industry:
 
 ![Shape5](RackMultipart20240203-1-18iyuy_html_e5710b4b6e0d896e.gif) ![Shape2](RackMultipart20240203-1-18iyuy_html_8020e3484751888.gif) ![Shape3](RackMultipart20240203-1-18iyuy_html_8020e3484751888.gif) ![Shape4](RackMultipart20240203-1-18iyuy_html_e6eb0ad86e9de004.gif) ![Shape1](RackMultipart20240203-1-18iyuy_html_1d8c384e5431b8e9.gif)
 
-<img width="473" alt="image" src="https://github.com/varun570/UMBC-DATA606-Capstone/assets/71378746/4a838f33-7b67-4a30-bda2-2f54813584d4">
+<img width="873" alt="image" src="https://github.com/varun570/UMBC-DATA606-Capstone/assets/71378746/4a838f33-7b67-4a30-bda2-2f54813584d4">
 
 
 # Data Description
