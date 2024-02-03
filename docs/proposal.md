@@ -92,7 +92,7 @@ Factors in the beverage industry:
 
 # Data Description
 
-Link: [https://www.kaggle.com/datasets/anandaramg/liquor-sales](https://www.kaggle.com/datasets/anandaramg/liquor-sales)
+[Link to dataset](https://www.kaggle.com/datasets/anandaramg/liquor-sales)
 
 The data at hand was obtained from free source Kaggle. It consists of liquor sales data from cities all over the US for the year 2014-2015.
 
