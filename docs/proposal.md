@@ -42,6 +42,8 @@ Varun Balle
 
 [Evaluation And Results](#_Toc157847850)
 
+[Closing Note](#_Toc157847850)
+
 [References](#_Toc157847851)
 
 # Introduction
