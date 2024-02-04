@@ -155,7 +155,15 @@ After performing all necessary data preprocessing steps, taking up the step of f
 
 All three model results will be evaluated and necessary finetuning will be done in order to bring out utmost accuracy and results will be validated. The best model out of the three will be chosen as the for forecasting the sales numbers for the next 6-month and 12-month horizon.
 
-Also in the proposed final outcome will be an interactive dashboard in which user can pick the category and item number and visualize the demand for set upcoming time frames.
+The proposed final outcome will also be an interactive dashboard in which users can pick the category and item number and visualize the demand for set upcoming time frames.
+
+# Closing Note
+
+I have contacted major wholesale liquor distributors Chesapeake Beverage, RNDC, Breakthru Beverage, and Southern Glazeer for more real-time sales data for the state of Maryland. I am currently in discussion with them regarding sharing data as majority of the data consists customer information which will be sensitive and access will be subjective. The availability of this real-time data will be confirmed to me by the end of next week i.e. 02/10/2024. 
+
+If I gain access to real-time data from at least one of these companies I will replace the current proposed dataset with the received one. Necessary changes will be made to the data and new EDA will be done, but the underlying project objective shall remain the same. 
+
+The goal behind obtaining data from companies will be to have a direct relationship with industry leaders which will be advantageous for me in both my academic and career goals.
 
 # References
 
