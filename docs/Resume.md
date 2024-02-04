@@ -1,5 +1,6 @@
 # VARUN BALLE
-![HEADSHOT](https://drive.google.com/file/d/12_1yzOZH6shMk4ff9wEjBI30jYnDhDpd/view?usp=drive_link)
+![img_440](https://github.com/varun570/UMBC-DATA606-Capstone/assets/71378746/12da0797-326b-40be-b21f-7aa93523539b)
+
 
 - Email: ballevarun55@gmail.com
 - LinkedIn: https://www.linkedin.com/in/varun-balle/
