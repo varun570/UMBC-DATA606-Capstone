@@ -14,6 +14,8 @@ Varun Balle
 
 [PowerPoint file](https://drive.google.com/drive/folders/1V4bJ71uebxW-QcZm_aat0Ts9MdII879C?usp=sharing)
 
+[Initial Notebook](https://colab.research.google.com/drive/1pnD-_3yOXfFVpw2bqWP2DTlT35lp4QSV)
+
 # Table of Contents
 
 [Introduction](#_Toc157847838)
