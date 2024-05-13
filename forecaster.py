@@ -11,7 +11,7 @@ category_mapping = {'AMERICAN VODKAS': 1, 'CANADIAN WHISKIES': 2, 'STRAIGHT BOUR
 store_name_mapping = {'HY-VEE #3 / BDI / DES MOINES': 1, 'CENTRAL CITY 2': 2, 'CENTRAL CITY LIQUOR, INC.': 3, 'HY-VEE FOOD STORE / CEDAR FALLS': 4, 'HY-VEE WINE AND SPIRITS / BETTENDORF': 5}
 city_mapping = {'DES MOINES': 1, 'CEDAR RAPIDS': 2, 'DAVENPORT': 3, 'WATERLOO': 4, 'WEST DES MOINES': 5}
 county_mapping = {'POLK': 1, 'LINN': 2, 'SCOTT': 3, 'BLACK HAWK': 4, 'JOHNSON': 5}
-bottle_volume_ml_mapping = {'50ML' : 1, '100ML' : 2, '200ML' : 3, '375ML' : 4, '750ML' : 5, '1750ML' : 6}
+bottle_volume_ml_mapping = {'50' : 1, '100' : 2, '200' : 3, '375' : 4, '750' : 5, '1750' : 6}
 
 # Function to preprocess input data
 def preprocess_input(store_number, store_name, city, county, category, vendor_number, pack, bottle_volume_ml, state_bottle_cost):
