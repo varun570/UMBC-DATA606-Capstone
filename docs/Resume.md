@@ -11,12 +11,12 @@
 
 ## Education
 - **Masters in Professional Studies in Data Science**
-  - University of Maryland • Maryland, Baltimore County • 2022 - Ongoing • 3.89/4.0
+  - University of Maryland • Maryland, Baltimore County • 2024 • 3.89/4.0
 - **Bachelor of Technology in Computer Science and Engineering**
   - CVR College Of Engineering • Hyderabad, India • 2022 • 3.49/4.0
 
 ## Experience
-### Math Coach UMBC - Reach Together Tutoring Program August 2023 - Present, Baltimore County
+### Teaching Assistant - Baltimore City Public School Systems(BCPSS) August 2023 - May 2024, Baltimore City
 - Led intensive tutoring programs for Baltimore students in grades 2 to 9, boosting average student scores in math by 5%.
 - Customized tutoring sessions to match each student's unique needs, ensuring a personalized learning journey that resulted in increased confidence and motivation.
 
