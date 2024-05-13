@@ -103,7 +103,7 @@ We can develop and train our models in various environments:
 
 ## 5. Web App Development:
 Developed a web application using Streamlit for users to interact with our trained forecasting models. 
-- **Streamlitapp:** 
+- **Streamlitapp:** https://liquorsalesforecasting.streamlit.app/
 
 # Conclusion
 
