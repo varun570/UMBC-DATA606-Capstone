@@ -6,7 +6,7 @@
 - **GitHub:** https://github.com/varun570
 - **LinkedIn:** http://www.linkedin.com/in/varun-balle
 - **Portfolio:** https://varun570.github.io/
-- **PowerPoint Presentation:** 
+- **PowerPoint Presentation:** https://docs.google.com/presentation/d/1ho2J2YmaCzj9rmGVDYqgpGSyUjWuMiiu/edit?usp=sharing&ouid=106355446175748978087&rtpof=true&sd=true
 - **YouTube Video:**
 
 # 2. Background
