@@ -2,7 +2,7 @@
 
 - **Project Title:** Liquor Sales Forecasting
 - **Prepared for** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
-- **Author:** Balle Varun
+- **Author:** Varun Balle
 - **GitHub:** https://github.com/varun570
 - **LinkedIn:** http://www.linkedin.com/in/varun-balle
 - **Portfolio:** https://varun570.github.io/
