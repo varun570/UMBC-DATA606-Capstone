@@ -11,7 +11,6 @@ category_mapping = {'AMERICAN VODKAS': 1, 'CANADIAN WHISKIES': 2, 'STRAIGHT BOUR
 store_name_mapping = {'HY-VEE #3 / BDI / DES MOINES': 1, 'CENTRAL CITY 2': 2, 'CENTRAL CITY LIQUOR, INC.': 3, 'HY-VEE FOOD STORE / CEDAR FALLS': 4, 'HY-VEE WINE AND SPIRITS / BETTENDORF': 5}
 city_mapping = {'DES MOINES': 1, 'CEDAR RAPIDS': 2, 'DAVENPORT': 3, 'WATERLOO': 4, 'WEST DES MOINES': 5}
 county_mapping = {'POLK': 1, 'LINN': 2, 'SCOTT': 3, 'BLACK HAWK': 4, 'JOHNSON': 5}
-bottle_volume_ml_mapping = {'50' : 1, '100' : 2, '200' : 3, '375' : 4, '750' : 5, '1750' : 6}
 
 # Function to preprocess input data
 def preprocess_input(store_number, store_name, city, county, category, vendor_number, pack, bottle_volume_ml, state_bottle_cost):
@@ -40,10 +39,11 @@ def main():
     store_name = st.sidebar.selectbox("Store Name", list(store_name_mapping.keys()), index=None, placeholder="Select Store",)
     city = st.sidebar.selectbox("City", list(city_mapping.keys()), index=None, placeholder="Select City",)
     county = st.sidebar.selectbox("County", list(county_mapping.keys()), index=None, placeholder="Select County",)
-    bottle_volume_ml = st.sidebar.selectbox("Bottle Volume (ml)", list(bottle_volume_ml_mapping.keys()), index=None, placeholder="Select Bottle Volume")
+ 
     
     vendor_number = st.sidebar.number_input("Vendor Number(1-20)", placeholder="Enter Vendor Number")
     pack = st.sidebar.number_input("Packs(Maximum 30)",  placeholder="Enter Number of Packs")
+    bottle_volume_ml = st.sidebar.number_input("Bottle Volume (ml) 50,100,200,375,750,1750", placeholder="Select Bottle Volume")
     state_bottle_cost = st.sidebar.number_input("State Bottle Cost",  placeholder="Enter Bottle Cost")
     
     # Prediction
@@ -60,4 +60,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
