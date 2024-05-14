@@ -8,7 +8,7 @@
 - **Portfolio:** https://varun570.github.io/
 - **PowerPoint Presentation:** https://docs.google.com/presentation/d/1ho2J2YmaCzj9rmGVDYqgpGSyUjWuMiiu/edit?usp=sharing&ouid=106355446175748978087&rtpof=true&sd=true
 - **Streamlitapp:** https://liquorsalesforecasting.streamlit.app/
-- **YouTube Video:**
+- **YouTube Video:** https://youtu.be/z9P7tOCCOZ0
 
 # 2. Background
 The project leverages data-driven forecasting to predict future liquor sales trends. Analyzes factors like consumer preferences, economic conditions, and seasonality to refine forecasts. Empowers businesses to anticipate market demands and make data-backed strategic choices. Enables businesses to optimize inventory management, pricing strategies, and marketing efforts. Aims to provide valuable insights that contribute to improved overall business performance in the liquor industry.
