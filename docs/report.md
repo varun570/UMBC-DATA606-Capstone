@@ -1,4 +1,4 @@
-# 1. Liquor Sales Forecasting
+# 1. Liquor Sales Forecasting Varun Balle SPRING 2024
 
 - **Project Title:** Liquor Sales Forecasting
 - **Prepared for** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
